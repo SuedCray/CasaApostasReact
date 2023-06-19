@@ -1,0 +1,49 @@
+body{
+  margin-left: 1%;
+  background-color: #232e2d;
+  color: antiquewhite;
+}
+
+nav{
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+h2{
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  margin-top: 5px;
+}
+
+button{
+  position: relative;
+  cursor: pointer;
+  top: 100px;
+  left: 20%;
+  display: inline-block;
+  transform: translate(-50%, 0%);
+  margin-inline-end: 13%;
+  width: 100px;
+  height: 30px;
+  background-color: aqua;
+  border: none;
+  border-radius: 10%;
+  margin-top: 5px;
+}
+
+main{
+  position: absolute;
+}
+
+#img{
+  position: relative;
+  right: -500px;
+  top: 200px;
+  width: 700px;
+  height: 650px;
+}
+
